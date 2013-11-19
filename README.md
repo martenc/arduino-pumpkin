@@ -5,7 +5,7 @@ Simple halloween project - LED flickers like a candle, turns red and screeches u
 
 Example: 
 http://bit.ly/HdzBsO
-
+http://www.martenc.com/wp-content/uploads/2013/10/arduino_pumpkin_Sketch_bb.png
 
 Credit to: 
 http://arduino.cc/en/Tutorial/Ping?from=Tutorial.UltrasoundSensor 
